@@ -3,7 +3,9 @@
 ## IG: https://www.instagram.com/linux_choice
 ### Don't copy this code without giving me the credits, nerd! 
 
-Script to generate an Android App to take photos from Cameras
+Script to generate an Android App to take photos from Cameras using Camera2 function on API 21.
+
+DroidCam uses Camera2 function by Hamed ZITOUN (https://github.com/botyourbusiness/android-camera2-secret-picture-taker) 
 
 ![dc](https://user-images.githubusercontent.com/34893261/50490362-e24e5c80-09f3-11e9-9a14-db89d6f2c0c9.png)
 
